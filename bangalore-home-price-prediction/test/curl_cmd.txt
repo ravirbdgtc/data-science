@@ -1,0 +1,6 @@
+curl.exe -X POST  http://127.0.0.1:5000/api/predict_home_price -d "total_sqft=1000" -d "location=1st Phase JP Nagar" -d "bhk=3" -d "bath=3"
+
+
+
+
+
