@@ -61,7 +61,3 @@ To demonstrate the practical application of machine learning in real estate pric
 
 The predicted prices are estimates based on the available dataset and trained model. Actual property prices may vary depending on market conditions, property quality, amenities, and other factors.
 
-
-
-<img width="934" height="525" alt="blr_home_ui_screenshot" src="https://github.com/user-attachments/assets/d9aad858-923e-49fa-ac17-2e305ddf2f19" />### Home Price Prediction Application
-![blr_home_ui_screenshot.png…](blr_home_ui_screenshot)
